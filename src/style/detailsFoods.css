@@ -1,0 +1,158 @@
+button {
+  margin: 0;
+}
+
+.detailsFoods__img {
+  height: 197px;
+  width: 360px;
+}
+
+.detailsFoods__title {
+  align-items: center;
+
+  /* color: #262d2f; */
+  color: #262d2f;
+  display: flex;
+  font: normal normal 400 30px/38px Quicksand;
+  font-size: 30px;
+  height: 38px;
+  letter-spacing: 1.8px;
+  margin-left: 10px;
+  opacity: 1;
+  text-align: left;
+  text-decoration: underline;
+  text-decoration-color: #ee4028 ;
+  width: 75%;
+}
+
+.details__share__button {
+  height: 36px;
+  opacity: 1;
+  width: 36px;
+}
+
+.details__name__buttons {
+  display: flex;
+  width: 360px;
+}
+
+.details__category {
+  color: #c5c6cb;
+
+  /* font: normal normal medium 19px/24px; */
+  font-family: 'Quicksand' , sans-serif;
+  font-size: normal normal medium 19px/24px;
+  margin-top: -20px;
+
+}
+
+.detailsFoods__title__buttons {
+  display: flex;
+}
+
+.detailsFoods__share__button {
+  width: 36px;
+}
+
+.detailsFoods__favorite__button {
+  width: 36px;
+}
+
+.detailsFoods__category {
+  color: #c5c6cb;
+  font: normal normal medium 19px/24px Quicksand;
+  letter-spacing: 1.14px;
+  margin-left: 10px;
+  opacity: 1;
+  text-align: left;
+}
+
+/* .detailsFoods__ingredientes {
+  color: #262d2f;
+  font: normal normal 400 30px/38px Quicksand;
+  font-size: 30px;
+  letter-spacing: 1.8px;
+  margin-left: 10px;
+  margin-top: 10px;
+  opacity: 1;
+  text-align: left;
+  text-decoration: underline;
+  text-decoration-color: #ee4028;
+} */
+
+.detailsFoods__container {
+  background: #ded7d7 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  margin: 10px;
+  opacity: 1;
+  padding: 5px;
+}
+
+.detailsFoods__name__ingredientes {
+  margin-left: 10px;
+}
+
+.detailsFoods__card__recomendation {
+  display: flex;
+  flex-wrap: nowrap;
+  margin-top: 10px;
+  overflow-x: scroll;
+}
+
+.detailsFoods__card {
+
+  /* UI Properties */
+  background: #fb7968 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  box-shadow: 0 4px 8px #262d2f78;
+  height: 156px;
+
+  /* background: #fb7968 0% 0% no-repeat padding-box;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin: 2vh; */
+  margin-left: 10px;
+  opacity: 1;
+  width: 166px;
+}
+
+.detailsFoods__card img {
+  border-radius: 6px;
+
+  /* UI Properties */
+  height: 115px;
+  margin: 5px;
+  opacity: 1;
+  width: 158px;
+}
+
+.detailsFoods__card h3 {
+  color: whitesmoke;
+  letter-spacing: 1.08px;
+  opacity: 1;
+  padding-top: 5px;
+  text-align: center;
+
+}
+
+.detailsFoods__start {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.detailsFoods__start__button {
+  background: #ee4028 0% 0% no-repeat padding-box;
+  border-radius: 7px;
+  box-shadow: 0 5px 10px #0000005e;
+  color: #f5f5f5;
+  font: normal normal medium 30px/38px Quicksand;
+  font-size: 30px;
+  height: 57px;
+  letter-spacing: 1.8px;
+  opacity: 1;
+  width: 297px;
+}
+
