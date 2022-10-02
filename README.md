@@ -9,7 +9,7 @@ general design: https://github.com/Thariklz
 
 https://user-images.githubusercontent.com/98190034/193432069-49b2edb0-24f5-4201-b113-01daa6f102e8.mp4
 
-Before start - enter the clonned repositoryand instal it's the dependencies by typing on your terminal: npm install
+Before start - enter the clonned repository and instal it's the dependencies by typing on your terminal: npm install
 once installed typy 'npm start' at your terminal to run it on your browser.
 
 My techinical contribution to this project:
